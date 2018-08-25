@@ -1,0 +1,15 @@
+#logging:
+#  pattern:
+#    console: "%d - %msg%n"
+#  #path: log/
+#  file: log/ss.out
+#  level:
+#    com.fengwenyi.log: trace
+
+logback:
+  logDir: log/dev
+
+logging:
+  level:
+    com.fengwenyi.log: debug
+    com.fengwenyi.log.service: error

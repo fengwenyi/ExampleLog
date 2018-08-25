@@ -1,0 +1,8 @@
+2018-08-17 11:57:09.396 [http-nio-8080-exec-1] ERROR com.fengwenyi.log.TestLogController - 日志输出：error
+2018-08-17 11:57:09.396 [http-nio-8080-exec-1] ERROR com.fengwenyi.log.TestLogController - 拼接-日志输出：error
+2018-08-17 11:59:56.450 [http-nio-8080-exec-1] ERROR com.fengwenyi.log.TestLogController - 日志输出：error
+2018-08-17 11:59:56.450 [http-nio-8080-exec-1] ERROR com.fengwenyi.log.TestLogController - 拼接-日志输出：error
+2018-08-17 11:59:56.450 [http-nio-8080-exec-1] ERROR com.fengwenyi.log.service.LogService - service error
+2018-08-17 12:01:12.815 [http-nio-8080-exec-1] ERROR com.fengwenyi.log.TestLogController - 日志输出：error
+2018-08-17 12:01:12.816 [http-nio-8080-exec-1] ERROR com.fengwenyi.log.TestLogController - 拼接-日志输出：error
+2018-08-17 12:01:12.816 [http-nio-8080-exec-1] ERROR com.fengwenyi.log.service.LogService - service error

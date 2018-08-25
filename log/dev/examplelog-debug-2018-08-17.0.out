@@ -1,0 +1,9 @@
+2018-08-17 11:57:00.377 [main] DEBUG com.fengwenyi.log.LogApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-17 11:57:09.395 [http-nio-8080-exec-1] DEBUG com.fengwenyi.log.TestLogController - 日志输出：debug
+2018-08-17 11:57:09.396 [http-nio-8080-exec-1] DEBUG com.fengwenyi.log.TestLogController - 拼接-日志输出：debug
+2018-08-17 11:59:45.092 [main] DEBUG com.fengwenyi.log.LogApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-17 11:59:56.449 [http-nio-8080-exec-1] DEBUG com.fengwenyi.log.TestLogController - 日志输出：debug
+2018-08-17 11:59:56.450 [http-nio-8080-exec-1] DEBUG com.fengwenyi.log.TestLogController - 拼接-日志输出：debug
+2018-08-17 12:01:07.494 [main] DEBUG com.fengwenyi.log.LogApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-17 12:01:12.814 [http-nio-8080-exec-1] DEBUG com.fengwenyi.log.TestLogController - 日志输出：debug
+2018-08-17 12:01:12.815 [http-nio-8080-exec-1] DEBUG com.fengwenyi.log.TestLogController - 拼接-日志输出：debug

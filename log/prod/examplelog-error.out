@@ -1,0 +1,2 @@
+2018-08-17 11:55:42.887 [http-nio-8080-exec-2] ERROR com.fengwenyi.log.TestLogController - 日志输出：error
+2018-08-17 11:55:42.889 [http-nio-8080-exec-2] ERROR com.fengwenyi.log.TestLogController - 拼接-日志输出：error

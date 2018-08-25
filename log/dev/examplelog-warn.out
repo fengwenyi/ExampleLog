@@ -1,0 +1,2 @@
+2018-08-25 21:55:44.063 [http-nio-8080-exec-1] WARN  com.fengwenyi.log.TestLogController - 日志输出：warn
+2018-08-25 21:55:44.068 [http-nio-8080-exec-1] WARN  com.fengwenyi.log.TestLogController - 拼接-日志输出：warn

@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: dev
+logback:
+  appName: examplelog
+  fileType: out
